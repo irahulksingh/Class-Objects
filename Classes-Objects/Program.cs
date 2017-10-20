@@ -26,10 +26,7 @@ namespace Classes_Objects
             Gradebook student = new Gradebook();
             float fMarks = float.Parse(Console.ReadLine());
             student.Grades(fMarks);
-
-
-
-     
+                 
         }
     }
 }

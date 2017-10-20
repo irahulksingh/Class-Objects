@@ -11,7 +11,22 @@ namespace Classes_Objects
         public void Grades(float Nums)
         {
 
+            if(Nums>=95.00)
+            {
+                Console.WriteLine("Great Job Kid, You are :Excellent");
+                Console.ReadLine();
+            }
+            else if (Nums<=33)
+            {
+                Console.WriteLine("Sorry Failed");
+                Console.ReadLine();
+            }
 
+            else if (Nums > 33)
+            {
+                Console.WriteLine(" you have passed");
+                Console.ReadLine();
+            }
 
 
 
