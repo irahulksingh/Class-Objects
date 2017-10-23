@@ -10,7 +10,7 @@ namespace Classes_Objects
     {
         static void Main(string[] args)
         {
-            
+
             Console.WriteLine("1. Please  enter an age");
             MovieTickets mTicket = new MovieTickets();
             int uAge = int.Parse(Console.ReadLine());
@@ -22,11 +22,19 @@ namespace Classes_Objects
             sTenT.TenTimesR(sWord);
 
 
-            Console.WriteLine("Enter the marks obtained by the student and his/her name");
+            Console.WriteLine("3. Enter the marks obtained by the student and his/her name");
             Gradebook student = new Gradebook();
             float fMarks = float.Parse(Console.ReadLine());
             student.Grades(fMarks);
-                 
+
+
+
+            //Console.WriteLine(" Please choose a color");
+            //var Toyota = new CarColor();
+            //Toyota.Paint("blue");
+            //Console.WriteLine("This Car is" + Toyota.Getcolor());
+            //Console.ReadLine();
+
         }
     }
 }

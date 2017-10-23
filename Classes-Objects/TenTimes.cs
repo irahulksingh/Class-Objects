@@ -8,6 +8,7 @@ namespace Classes_Objects
 {
     class TenTimes
     {
+        private string color;
         public void TenTimesR(string sTenTimes)
         {
             for (int i = 0; i < 10; i++)
@@ -15,13 +16,8 @@ namespace Classes_Objects
                 int ivalue = i + 1;
 
                 Console.Write( ivalue + "."+ sTenTimes + ", ");
-
-
             }
             Console.ReadLine();
-
-                    }
-
-
-    }
+            }
+       }
 }
