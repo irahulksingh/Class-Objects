@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\bin\Debug\Classes-Objects.exe.config
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\obj\Debug\Classes-Objects.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\bin\Debug\Classes-Objects.exe
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\bin\Debug\Classes-Objects.pdb
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\obj\Debug\Classes-Objects.exe
+C:\Users\User\Desktop\RKS\Classes-Objects\Classes-Objects\obj\Debug\Classes-Objects.pdb
